@@ -17,10 +17,19 @@ This is my personal knowledge base where I document:
 
 ## Structure
 
-- challenges/ # Vulnerability analysis by category
-- solutions/ # Detailed exploitation walkthroughs
-- notes/ # Security concepts and reflections
-- evidence/ # Proof of concept and screenshots
+challenges/category/difficulty/challenge-name/challenge.md
+
+- **Category:** Vulnerability type (injection, xss, etc.)
+- **Difficulty:** 1★ to 5★ rating  
+- **Challenge:** Self-contained documentation with evidence
+
+## Purpose
+- Document my penetration testing learning path
+- Create reference material for web security topics
+- Track progress through realistic security scenarios
+
+*"The best way to learn security is to break things - then understand how to fix them."*
+
 
 
 ## Purpose
