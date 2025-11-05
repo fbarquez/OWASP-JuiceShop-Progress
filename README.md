@@ -30,11 +30,3 @@ challenges/category/difficulty/challenge-name/challenge.md
 
 *"The best way to learn security is to break things - then understand how to fix them."*
 
-
-
-## Purpose
-- Document my penetration testing learning path
-- Create reference material for web security topics
-- Track progress through realistic security scenarios
-
-*"The best way to learn security is to break things - then understand how to fix them."*
