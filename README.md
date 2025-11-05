@@ -12,16 +12,15 @@ This is my personal knowledge base where I document:
 
 ## Current Status
 - **Challenges Completed:** 0/XX
-- **Current Focus:** Building foundational web security knowledge
+- **Current level:** Building foundational web security knowledge
 - **Last Updated:** $(date +%Y-%m-%d)
 
-## Project Organization
+## Structure
 
-OWASP-JuiceShop-Progress/
-├── challenges/ # Vulnerability analysis by category
-├── solutions/ # Detailed exploitation walkthroughs
-├── notes/ # Security concepts and reflections
-└── evidence/ # Proof of concept and screenshots
+- challenges/ # Vulnerability analysis by category
+- solutions/ # Detailed exploitation walkthroughs
+- notes/ # Security concepts and reflections
+- evidence/ # Proof of concept and screenshots
 
 
 ## Purpose
